@@ -6,8 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	//"github.com/gorilla/websocket"
-	"leslieran.com/websocketTest/server/websocket"
+	"github.com/gorilla/websocket"
 )
 
 var (

@@ -9,8 +9,7 @@ import (
 	"os/signal"
 	"time"
 
-	//"github.com/gorilla/websocket"
-	"leslieran.com/websocketTest/client/websocket"
+	"github.com/gorilla/websocket"
 )
 
 var (
